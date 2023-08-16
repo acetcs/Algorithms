@@ -12,7 +12,6 @@ Welcome to the ACET Coding Club's Algorithm Repository! 🚀 This repository is 
 6. [Machine Learning Algorithms](#machine-learning-algorithms)
 7. [Design and Analysis](#design-and-analysis)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction 🌟
 

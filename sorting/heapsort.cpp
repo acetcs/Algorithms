@@ -13,7 +13,7 @@ int heap(int arr[],int len){
 void heapify(int arr[],int len){
     int ansArr[len];
     for(int i=len-1;i<=0;i--){
-        heap(arr,i)
+        heap(arr,i);
     }
 }
 
